@@ -57,7 +57,7 @@ This repository is a comprehensive guide for beginners to advanced learners in t
 A comprehensive resource for understanding **probabilistic modeling** in machine learning.
 
 **Need the softcopy of the book?**  
-Contact me at: [m.raiaan.cs@gmail.com](mailto:m.raiaan.cs@gmail.com)
+Contact me at: [almahmud145@gmail.com](mailto:almahmud145@gmail.com)
 
 ---
 
