@@ -65,3 +65,5 @@ Contact me at: [almahmud145@gmail.com](mailto:almahmud145@gmail.com)
 - Total time to go through all resources: ~48 hours.
 
 These courses and resources will provide you with a robust foundation in **machine learning**, **computer vision**, and **deep learning**. Happy learning!
+
+Credit: mak-raiaan
